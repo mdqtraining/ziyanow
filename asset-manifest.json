@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ziyanow/static/css/main.d6a1d3ba.css",
+    "main.js": "/ziyanow/static/js/main.3fdfe87a.js",
+    "static/js/787.305c4690.chunk.js": "/ziyanow/static/js/787.305c4690.chunk.js",
+    "static/media/Untitled.png": "/ziyanow/static/media/Untitled.f55476aef0be9c460faa.png",
+    "static/media/chatlogo.png": "/ziyanow/static/media/chatlogo.4a01f125a9347146d204.png",
+    "index.html": "/ziyanow/index.html",
+    "main.d6a1d3ba.css.map": "/ziyanow/static/css/main.d6a1d3ba.css.map",
+    "main.3fdfe87a.js.map": "/ziyanow/static/js/main.3fdfe87a.js.map",
+    "787.305c4690.chunk.js.map": "/ziyanow/static/js/787.305c4690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6a1d3ba.css",
+    "static/js/main.3fdfe87a.js"
+  ]
+}
